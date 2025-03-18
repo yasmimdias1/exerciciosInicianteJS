@@ -14,4 +14,4 @@ QUESTOES PRESENTES NO CODIGO </br>
 11- Use o Math.random para gerar qualquer número aleatório e exiba esse número no console.</br>
 12- Use o Math.random para gerar um número inteiro entre 1 e 10 e exiba esse número no console.</br>
 13- Use o Math.random para gerar um número inteiro entre 1 e 1000 e exiba esse número no console.</br>
-Questoes do Curso de Lógica de programação: mergulhe em programação com JavaScript, diponivel na <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">ALURA</a>
+Questoes do curso de Lógica de programação: mergulhe em programação com JavaScript, diponivel na <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">ALURA</a>
